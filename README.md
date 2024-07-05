@@ -1,4 +1,4 @@
-# Conversor_modena
+# Conversor_modenas
 
 Este proyecto es un conversor de monedas que utiliza la API de tasas de cambio para convertir diferentes monedas a dólares.
 
@@ -20,5 +20,5 @@ Al ejecutar el programa, se muestra un menú con las opciones de conversión. El
 
 ## Autor
 
-[Sofia Rivera]
+Sofia Rivera
 
