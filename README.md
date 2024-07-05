@@ -1,4 +1,4 @@
-# Conversor_modenas
+# Conversor_monedas
 
 Este proyecto es un conversor de monedas que utiliza la API de tasas de cambio para convertir diferentes monedas a dólares.
 
